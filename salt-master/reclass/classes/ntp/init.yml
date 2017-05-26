@@ -1,0 +1,6 @@
+classes:
+- ntp.base
+parameters:
+  ntp:
+    servers:
+      - 1.pool.ntp.org

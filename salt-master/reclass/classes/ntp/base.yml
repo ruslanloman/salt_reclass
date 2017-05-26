@@ -1,0 +1,6 @@
+applications:
+- ntp
+parameters:
+  ntp:
+    servers:
+      - 0.pool.ntp.org
